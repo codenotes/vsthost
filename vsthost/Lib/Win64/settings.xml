@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="lastPluginScanPath_VST" val="C:\repos\soundcrab\msvc\soundcrab\x64\vsthost;C:\Program Files\Steinberg\VstPlugins;C:\Program Files\VstPlugins;C:\repos\PluginTest1\Builds\VisualStudio2015\x64\Debug;C:\repos\JUCE\examples\audio plugin demo\Builds\VisualStudio2015\x64\Debug"/>
+  <VALUE name="pluginList">
+    <KNOWNPLUGINS>
+      <PLUGIN name="JuceDemoPlugin" descriptiveName="Juce Demo Plugin" format="VST"
+              category="Effect" manufacturer="ROLI Ltd." version="V1.0.0" file="C:\repos\JUCE\examples\audio plugin demo\Builds\VisualStudio2015\x64\Debug\JuceDemoPlugin.dll"
+              uid="4a63646d" isInstrument="0" fileTime="15565be3ac7" infoUpdateTime="15565bef7cf"
+              numInputs="2" numOutputs="2" isShell="0"/>
+      <PLUGIN name="PluginTest1" format="VST" category="Effect" manufacturer="yourcompany"
+              version="V1.0.0" file="C:\repos\PluginTest1\Builds\VisualStudio2015\x64\Debug\PluginTest1.dll"
+              uid="4b776f77" isInstrument="0" fileTime="15565b5b23f" infoUpdateTime="15565b90e99"
+              numInputs="2" numOutputs="2" isShell="0"/>
+      <PLUGIN name="soundcrab" descriptiveName="SoundCrab" format="VST" category="Synth"
+              manufacturer="kRAkEn/gORe" version="V5.1.6" file="C:\repos\soundcrab\msvc\soundcrab\x64\vsthost\soundcrab.dll"
+              uid="6b4e4772" isInstrument="1" fileTime="155ab8fdc72" infoUpdateTime="155ac138fad"
+              numInputs="0" numOutputs="2" isShell="0"/>
+      <PLUGIN name="UVIWorkstationVSTx64" descriptiveName="UVIWorkstation"
+              format="VST" category="Synth" manufacturer="UVI" version="V2.6.6"
+              file="C:\Program Files\Steinberg\VstPlugins\UVIWorkstationVSTx64.dll"
+              uid="55564957" isInstrument="1" fileTime="154c4946c30" infoUpdateTime="15563c4b3f5"
+              numInputs="0" numOutputs="34" isShell="0"/>
+    </KNOWNPLUGINS>
+  </VALUE>
+  <VALUE name="listWindowPos" val="874 81 408 634"/>
+  <VALUE name="audioDeviceState">
+    <DEVICESETUP deviceType="Windows Audio" audioOutputDeviceName="Speakers (Cirrus Logic CS4206B (AB 32))"
+                 audioInputDeviceName="" audioDeviceRate="48000"/>
+  </VALUE>
+  <VALUE name="recentFilterGraphFiles" val="C:\temp\test2.filtergraph&#10;C:\temp\test.filtergraph"/>
+  <VALUE name="mainWindowPos" val="973 245 799 606"/>
+  <VALUE name="doublePrecisionProcessing" val="1"/>
+  <VALUE name="lastPluginScanPath_VST3" val="C:\Program Files\Common Files\VST3"/>
+</PROPERTIES>

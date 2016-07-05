@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILTERGRAPH>
+  <FILTER uid="5" x="0.5" y="0.10000000149011611938">
+    <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="246006c0"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="4" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="6" x="0.25" y="0.10000000149011611938">
+    <PLUGIN name="Midi Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="cb5fde0b"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="7" x="0.5" y="0.89999997615814208984">
+    <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="724248cb"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+  </FILTER>
+  <FILTER uid="9" x="0.41426783479349188477" y="0.4098939929328622167"
+          uiLastX_Normal="330" uiLastY_Normal="328" uiopen_Normal="0">
+    <PLUGIN name="soundcrab" descriptiveName="SoundCrab" format="VST" category="Synth"
+            manufacturer="kRAkEn/gORe" version="V5.1.6" file="C:\repos\soundcrab\msvc\soundcrab\x64\vsthost\soundcrab.dll"
+            uid="6b4e4772" isInstrument="1" fileTime="155ab8fdc72" infoUpdateTime="155ac14f2ac"
+            numInputs="0" numOutputs="2" isShell="0"/>
+    <STATE>1645.CMlaKA....fQBMDZ....ArlSGIG..H.A..................................................................................................................................................................................PAMyyO30FafXWYxMWZu4VOhDiKvHBHk41XuQVZtcVOhTEUF0BNh7iOMnPCJvSagklafXWYxMWZu4VOhTSL1HhOMn.HfviYowVYfXVcrwFbgQGZ8HxP5vEck0FbbgTTq7jbigVYyQmbgw1JS8VctQlYu4FcqLzarwVYiQWZu41J1IiKw3hLtLmYxHxK9zfBf.BOy8VctQFHhElaq0iHvHBHvIWYyUFc8HRLh7hOMn.HfvCbgIWXsUFckI2b9zfBf.BHfvCbgIWXsUFckIGHqUVd8HBLh.xXi0iHsDiHfXWXrUWY8HBLtXCLv.CLv.iLzHBHzUFdz0iHv3hMv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iHwHBHiMVOhzRLh.hcgwVck0iHwHCNh.BckgGc8HRLxfiKv.CH1IxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HhLh.xXi0iHsDiHfXWXrUWY8HBLtTiHfPWY3QWOh.iK0.CLv.RIh7hOMn.Hf.BH7.WXxEVakQWYxAxZkkWOhLiHfL1X8HRKwHBH1EFa0UVOh.iK0HBHzUFdz0iHv3RMv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iHzHBHiMVOhzRLh.hcgwVck0iHv3RMh.BckgGc8HBLtTCLv.CHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRMh.xXi0iHsDiHfXWXrUWY8HBLtTiHfPWY3QWOh.iK0.CLv.RIh7hOMn.Hf.BH7.WXxEVakQWYxAxZkkWOhXiHfL1X8HRKwHBH1EFa0UVOh.iK0HBHzUFdz0iHv3RMv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iH2HBHiMVOhzRLh.hcgwVck0iHs.iKwHSMh.BckgGc8HRKv3RLxTCLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iH3HBHiMVOhzRLh.hcgwVck0iHvHBHzUFdz0iHv3BLv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iH4HBHiMVOhzRLh.hcgwVck0iHv3RMh.BckgGc8HBLtTCLv.CHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRLvHBHiMVOhzRLh.hcgwVck0iHv3RMh.BckgGc8HBLtTCLv.CHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRLwHBHiMVOhzRLh.hcgwVck0iHv3xMvTCN3HyL2HBHzUFdz0iHv3xMvTSNfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iHwHiHfL1X8HRKwHBH1EFa0UVOh.iK2.SN1byMyjCNh.BckgGc8HBLtbCL4bCHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRLyHBHiMVOhzRLh.hcgwVck0iHv3hMv.CLv.CLxPiHfPWY3QWOh.iK1.CLv.RIh7hOMn.Hf.BH7.WXxEVakQWYxAxZkkWOhDCMh.xXi0iHsDiHfXWXrUWY8HBLh.BckgGc8HBLt.CLv.CHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRL0HBHiMVOhzRLh.hcgwVck0iHwHBHzUFdz0iHw3BLv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iHwXiHfL1X8HRKwHBH1EFa0UVOh.iHfPWY3QWOh.iKv.CLv.RIh7hOMn.Hf.BH7.WXxEVakQWYxAxZkkWOhDCNh.xXi0iHsDiHfXWXrUWY8HBLh.BckgGc8HBLt.CLv.CHkHxK9zfBf.BHfvCbgIWXsUFckIGHqUVd8HRL4HBHiMVOhzRLh.hcgwVck0iHwHBHzUFdz0iHw3BLv.CLfThHu3SCJ.BHf.BOvElbg0VYzUlbfrVY40iHx.iHfL1X8HRKwHBH1EFa0UVOh.iHfPWY3QWOh.iKv.CLv.RIh7hOMn.HfvyKvElbg0VYzUlby4SCJvyKsEVZt4SCJ.</STATE>
+  </FILTER>
+  <CONNECTION srcFilter="6" srcChannel="4096" dstFilter="9" dstChannel="4096"/>
+  <CONNECTION srcFilter="9" srcChannel="0" dstFilter="7" dstChannel="0"/>
+  <CONNECTION srcFilter="9" srcChannel="1" dstFilter="7" dstChannel="1"/>
+</FILTERGRAPH>
