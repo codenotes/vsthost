@@ -11,7 +11,8 @@ extern "C"
 	void setPreset2(int preset, int midichannel, bool clearChannel, int soundFontID);
 	void loadSoundFont(char * filename);
 	void setGain(int gain);
-	
+	void getDefaultAudioOutput(char * deviceName);
+	int getAudioDevicesWin32(char ***audioDevices, int *sz);
 
 
 }
