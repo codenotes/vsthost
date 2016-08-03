@@ -7,12 +7,17 @@ extern "C"
 	void setPreset(int preset, int midichannel, bool clearChannel);
 	void PlayMidiFile(char * midiFileName, unsigned char * channels, int num_channels);
 	
-	//conveiniance methods, these just create midi sysex messages at end of day
+	//helper methods, these just create midi sysex messages at end of day
 	void setPreset2(int preset, int midichannel, bool clearChannel, int soundFontID);
+	void unloadSoundFont(char * sfname /*core name*/);
 	void loadSoundFont(char * filename);
 	void setGain(int gain);
 	void getDefaultAudioOutput(char * deviceName);
 	int getAudioDevicesWin32(char ***audioDevices, int *sz);
+	void releaseAudioDeviceNames(char ***namelist, int sz);
+
+	int getSFID(char * soundfont);
+	bool deletePresetMulti(char * soundfont);
 
 
 }
