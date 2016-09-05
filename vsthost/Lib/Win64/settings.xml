@@ -13,7 +13,7 @@
               uid="4b776f77" isInstrument="0" fileTime="15565b5b23f" infoUpdateTime="15565b90e99"
               numInputs="2" numOutputs="2" isShell="0"/>
       <PLUGIN name="soundcrab" descriptiveName="SoundCrab" format="VST" category="Synth"
-              manufacturer="kRAkEn/gORe" version="V5.1.6" file="C:\repos\soundcrab\msvc\soundcrab\x64\vsthost\soundcrab.dll"
+              manufacturer="kRAkEn/gORe" version="V5.1.6" file="d:\repos\soundcrab\msvc\soundcrab\x64\vsthost\soundcrab.dll"
               uid="6b4e4772" isInstrument="1" fileTime="155ab8fdc72" infoUpdateTime="155ac138fad"
               numInputs="0" numOutputs="2" isShell="0"/>
       <PLUGIN name="UVIWorkstationVSTx64" descriptiveName="UVIWorkstation"
