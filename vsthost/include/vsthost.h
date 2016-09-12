@@ -8,7 +8,7 @@ extern "C"
 	void PlayMidiFile(char * midiFileName, unsigned char * channels, int num_channels);
 	
 	//helper methods, these just create midi sysex messages at end of day
-	_declspec(deprecated("** deprecated, doesn't handle banks **")) void setPreset2(int preset, int midichannel, bool clearChannel, int soundFontID);
+	void setPreset2(int preset, int midichannel, bool clearChannel, int soundFontID);
 	void setPreset3(int preset, int bank, int midichannel, bool clearChannel, int soundFontID);
 	void unloadSoundFont(char * sfname /*core name*/);
 	void loadSoundFont(char * filename);
@@ -19,7 +19,8 @@ extern "C"
 
 	int getSFID(char * soundfont);
 	bool deletePresetMulti(char * soundfont);
-
+	bool openMidiIn(const char * midiDeviceName);
+	bool closeMidiIn(const char * midiDeviceName);
 
 }
 
